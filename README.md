@@ -1,5 +1,5 @@
 # Pretty Windows 
-![Windows Setup](https://github.com/user-attachments/assets/03b1ab02-059f-4bce-aa76-236a664e9235)
+![Screenshot of the desktop](desktop.png)
 This repo contains the tools and software I use to customize the look of my Windows , giving it a unique look from the default appearance.
 
 
