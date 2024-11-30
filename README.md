@@ -1,6 +1,6 @@
 # Pretty Windows 
 ![Screenshot of the desktop](desktop.png)
-This repo contains the tools and software I use to customize the look of my Windows , giving it a unique look from the default appearance.
+This repo contains the tools and software I used to customize the look of my Windows.
 
 
 ## Softwares I used:
@@ -16,11 +16,9 @@ For the skin I used, you can visit this [link](https://www.deviantart.com/apexxx
 ### TranslucentTB
 I've set my taskbar to "Automatically hide the taskbar", so you couldn't see the effect from the screeshot above. But what TranslucentTB basically doing here is just making the Windows taskbar transparent. You can install it from Microsoft Store 
 
-### [Devian Art](https://www.deviantart.com/) 
-You can find the wallpaper I used here: [wallpaper](https://yourimageshare.com/ib/CqICR1mX56.webp) 
-> Wallpaper is from [linked-memories](https://www.deviantart.com/linked-memories)
+### Wallpaper 
+You can find the wallpaper I used here: [wallpaper](https://ph.pinterest.com/pin/584975439131176050/) 
 
-## Contact
-If you have any questions or would like to connect with me, feel free to reach out!
-- [X/Twiiter](https://twitter.com/jfmartinz)
+## Connect with me!
+- [X/Twitter](https://twitter.com/jfmartinz)
 - [LinkedIn](https://www.linkedin.com/in/jfmartinz/)
