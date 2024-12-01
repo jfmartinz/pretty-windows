@@ -19,6 +19,9 @@ I've set my taskbar to "Automatically hide the taskbar", so you couldn't see the
 ### Wallpaper 
 You can find the wallpaper I used here: [wallpaper](https://ph.pinterest.com/pin/584975439131176050/) 
 
+### Why?
+tired of the default look of Windows, so I decided to customize it to make it look better. However, it’s still nowhere near the level of customization that others achieve using Linux.
+
 ## Connect with me!
 - [X/Twitter](https://twitter.com/jfmartinz)
 - [LinkedIn](https://www.linkedin.com/in/jfmartinz/)
