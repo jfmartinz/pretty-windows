@@ -25,7 +25,7 @@ I used Rainmeter to add additional systems information like the _CPU_, _RAM_, an
 For the skin I used, you can visit this [link](https://www.deviantart.com/apexxx-sensei/art/Robik-771914763). 
 
 ### Powertoys
-To search programs/software. It allows me to open any program using the windows shorcut `ALT` + `Space bar`
+To search for software/application, files, folders, etc. Shorcut `ALT` + `Space bar`
 
 
 
